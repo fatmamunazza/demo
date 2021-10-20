@@ -6,6 +6,7 @@ pipeline {
    stages {
         stage('build') {
             steps {
+               bat 'mvn --version'
                echo 'Building the source'
             }
         }
