@@ -5,5 +5,6 @@ public class MyClass {
         System.out.println("munazza");
         System.out.println("munazza2");
         System.out.println("munazza3");
+        System.out.println("munazza4");
     }
 }
